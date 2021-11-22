@@ -14,6 +14,7 @@ import VuelosTable from "./pages/VuelosTable";
 function App() {
   return (
     <Router>
+      {/* Componente barra de navegación */}
       <Navbar></Navbar>
 
       <Switch>
